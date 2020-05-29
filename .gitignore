@@ -1,0 +1,9 @@
+*.pyc
+*~
+/.vscode
+__pycahce__
+Pipfile
+Pipfile.lock
+db.sqlite3
+/static
+.DS_Store
